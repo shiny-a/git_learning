@@ -5,6 +5,7 @@ github ハンズオン
 
 deveropブランチに変更
 
+変更するよ
 lazygit練習
 
 layzygi練習２
